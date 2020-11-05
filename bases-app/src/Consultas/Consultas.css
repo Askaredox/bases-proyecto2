@@ -1,0 +1,9 @@
+.btn-group{
+    width: 100%;
+    display: flex; 
+    flex-direction: column
+}
+
+.btn-right{
+    align-self: flex-end
+}
